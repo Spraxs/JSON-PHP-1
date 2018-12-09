@@ -1,0 +1,36 @@
+{
+"klanten": {
+  "1": {
+    "voornaam": "Wendy",
+    "achternaam": "Smith",
+    "geboortedatum": "18/12/2000",
+    "werk": "Kassière",
+    "hobbies": {
+      "ko": "Koken",
+      "da": "Dansen"
+    }
+  },
+  "2": {
+    "voornaam": "Bart",
+    "achternaam": "Tafel",
+    "geboortedatum": "3/6/1999",
+    "werk": "Vakkenvuller",
+    "hobbies": {
+      "vo": "Voetballen",
+      "tv": "Televisie kijken"
+    }
+  },
+
+  "3": {
+    "voornaam": "Nicko",
+    "achternaam": "Brink",
+    "geboortedatum": "3/6/1999",
+    "werk": null,
+    "hobbies": {
+      "ga": "Gamen",
+      "po": "Programmeren"
+    }
+  }
+
+}
+}
